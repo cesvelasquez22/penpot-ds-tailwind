@@ -1,0 +1,16 @@
+{
+    "folders": [
+        {
+            "path": "."
+        }
+    ],
+    "settings": {
+        "css.lint.unknownAtRules": "ignore"
+    },
+    "extensions": {
+        "recommendations": [
+            "Angular.ng-template",
+            "bradlc.vscode-tailwindcss"
+        ]
+    }
+}
